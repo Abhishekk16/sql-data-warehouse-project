@@ -5,6 +5,7 @@ Store Procedure: Load Bronze Layer (source{CSV} >> Bronze)
 */
 
 
+
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
 	PRINT '===================================================';
